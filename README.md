@@ -1,0 +1,2 @@
+# Gomoku
+Simple gomoku program
